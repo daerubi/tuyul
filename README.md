@@ -1,2 +1,2 @@
-# tuyul
-autoclaim faucethub
+# faucethub
+faucethub
